@@ -1,0 +1,7 @@
+﻿.vs
+bin
+obj
+DlssUpdater.csproj.user
+.idea
+act.exe
+release.bat
